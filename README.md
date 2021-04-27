@@ -21,5 +21,6 @@ In this project these activation functions are implemented using python's numpy.
 ## How to Run
 
 ```bash
+pip3 install -r requirements.txt # to install the dependancies
 python Q1_ActivationFunctions.py
 ```
